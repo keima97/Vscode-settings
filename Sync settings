@@ -1,30 +1,53 @@
 {   
     
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Material",
+    "workbench.colorTheme": "Material Theme",
     "workbench.colorCustomizations": {
         "activityBar.background": "#5C6BC0",
         "activityBar.border": "#464E52",
+
         "tab.activeBackground": "#5C6BC0",
         "tab.border": "#464E52",
-        "statusBar.background": "#5C6BC0",
+        "tab.inactiveBackground":"#7985C8",
+        "tab.inactiveForeground": "#E8FFF9",
+
+        "statusBar.background": "#5B6AC0",
         "statusBar.debuggingBackground": "#5C6BC0",
         "statusBar.noFolderBackground": "#5C6BC0",
         "statusBar.border":"#464E52",
-        "editorError.foreground": "#5B6AC0",
-        "editorWarning.foreground":"#5B6AC0",
+        "statusBar.foreground": "#FFFFFF",
+
         "editorHoverWidget.background":"#000000",
         "editor.foreground": "#FFFFFF",
-        "sideBarSectionHeader.background": "#5B6AC0",
+        
+        
+        "sideBarTitle.foreground":"#FFFFFF",
         "sideBar.background": "#222E34",
-        "sideBar.border": "#464E52"    
+        "sideBar.border": "#464E52",
+        "sideBar.foreground": "#FFFFFF",
+        "sideBarSectionHeader.background":"#5C6BC0",    
+
+        "titleBar.activeBackground": "#5C6BC0",
+        "titleBar.border": "#464E52",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#5C6BC0",
+        "titleBar.inactiveForeground": "#E8FFF9",
+
+        "panel.border":"#464E52",
+        "panelTitle.activeBorder":"#464E52",
+
+        "contrastBorder":"#464E52",
+
+        "button.background":"#5C6BC0",
+
+        "editorGroupHeader.tabsBackground":"#263138"
 
     },
     "sync.gist": "6322b85fd97c11971295b9aa143ac43c",
-    "sync.lastUpload": "2017-08-14T09:20:15.518Z",
+    "sync.lastUpload": "2017-08-14T11:35:04.620Z",
     "sync.autoDownload": false,
     "sync.autoUpload": true,
-    "sync.lastDownload": "",
+    "sync.lastDownload": "2017-08-14T10:33:51.349Z",
     "sync.forceDownload": false,
     "sync.anonymousGist": false,
     "sync.host": "",
