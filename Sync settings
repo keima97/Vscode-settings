@@ -1,0 +1,34 @@
+{   
+    
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Material",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#5C6BC0",
+        "activityBar.border": "#464E52",
+        "tab.activeBackground": "#5C6BC0",
+        "tab.border": "#464E52",
+        "statusBar.background": "#5C6BC0",
+        "statusBar.debuggingBackground": "#5C6BC0",
+        "statusBar.noFolderBackground": "#5C6BC0",
+        "statusBar.border":"#464E52",
+        "editorError.foreground": "#5B6AC0",
+        "editorWarning.foreground":"#5B6AC0",
+        "editorHoverWidget.background":"#000000",
+        "editor.foreground": "#FFFFFF",
+        "sideBarSectionHeader.background": "#5B6AC0",
+        "sideBar.background": "#222E34",
+        "sideBar.border": "#464E52"    
+
+    },
+    "sync.gist": "6322b85fd97c11971295b9aa143ac43c",
+    "sync.lastUpload": "2017-08-14T09:20:15.518Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": true,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false
+}
